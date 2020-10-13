@@ -1,0 +1,1 @@
+# gooddata-react-components-testing
